@@ -1,1 +1,1 @@
-person4
+onsole.log(nombre.toUpperCase)

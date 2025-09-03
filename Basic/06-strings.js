@@ -21,7 +21,7 @@ console.log(greeting.includes("Dark"))
 console.log(greeting.slice(0, 8))
 console.log(greeting.replace("David", "Vader"))
 
-//Template literals (p;antillas literales)
+//Template literals (plantillas literales)
 
 let message = `Hola, 
                 este es mi
